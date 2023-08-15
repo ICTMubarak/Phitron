@@ -1,0 +1,25 @@
+Depth of node 1: 0
+Depth of node 2: 1
+Depth of node 3: 1
+Depth of node 4: 2
+Depth of node 5: 2
+Depth of node 6: 3
+Depth of node 7: 3
+Depth of node 8: 4
+Depth of node 9: 2
+Depth of node 10: 1
+Depth of node 11: 2
+Depth of node 12: 2
+##########
+Depth of node 1: 4
+Depth of node 2: 3
+Depth of node 3: 1
+Depth of node 4: 0
+Depth of node 5: 2
+Depth of node 6: 1
+Depth of node 7: 0
+Depth of node 8: 0
+Depth of node 9: 0
+Depth of node 10: 1
+Depth of node 11: 0
+Depth of node 12: 0

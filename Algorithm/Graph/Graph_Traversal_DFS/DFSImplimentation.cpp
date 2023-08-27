@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std; 
 
-void init_code(){
-
-}
 const int N = 1e5+5;
 vector<int> adj[N];
 bool visited[N];
@@ -22,8 +19,6 @@ void dfs(int u){
 
 
 int main(){
-
-    init_code();
     int n,m;
     cin>>n>>m;
 
